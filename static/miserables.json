@@ -1,0 +1,11 @@
+{
+    "nodes": [
+      {"id": "yukiso", "group": 1},
+      {"id": "cluster1", "group": 2},
+      {"id": "cluster2", "group": 3}
+    ],
+    "links": [
+      {"source": "yukiso", "target": "cluster1", "value": 9},
+      {"source": "yukiso", "target": "cluster2", "value": 9}
+    ]
+  }
